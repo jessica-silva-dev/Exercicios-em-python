@@ -1,4 +1,4 @@
-# PRATICANDO COM WHILE - LOOP
+# PRATICANDO COM WHILE - LAÇOS DE REPETIÇÃO
 
 # Imprima na tela os números de 0 a 10
 

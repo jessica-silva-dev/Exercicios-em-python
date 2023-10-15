@@ -1,4 +1,4 @@
-# PRATICANDO COM O FOR - LOOP
+# PRATICANDO COM O FOR - LAÇOS DE REPETIÇÃO
 
 # Criei uma lista com diversos valores
 
@@ -26,5 +26,14 @@ for letra in nome:
 
 # Pra cada total(variável criada que vai exibir os valores) de 0(início) a 20(término), pular esses números de 2 em 2.
 
+# No terceiro parâmetro eu coordeno se quero que ele vai para frente ou para trás
+
+# Para puçar para fremte número positivos = 1, 5
+# Para trás números negativos = -1, -5, 
+
 for total in range(0, 20 + 1, 2):
     print(total)
+    
+    
+        
+
