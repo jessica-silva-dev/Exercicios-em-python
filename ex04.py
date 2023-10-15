@@ -28,8 +28,8 @@ for letra in nome:
 
 # No terceiro parâmetro eu coordeno se quero que ele vai para frente ou para trás
 
-# Para puçar para fremte número positivos = 1, 5
-# Para trás números negativos = -1, -5, 
+# Para puçar para fremte número positivos = 2, 5
+# Para trás números negativos = -2, -5, 
 
 for total in range(0, 20 + 1, 2):
     print(total)
