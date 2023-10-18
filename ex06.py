@@ -3,8 +3,8 @@
 # Laço de repetição
 
 for avaliacao in range(0, 3):
-    nota = float(input('Digite um número: '))
-    nota1 = float(input('Digite um número: '))
+    nota = float(input('Digite sua nota: '))
+    nota1 = float(input('Digite sua outra nota: '))
     media = (nota + nota1) / 2
     if media >= 6:
         print(f"Sua média é = {media}")
