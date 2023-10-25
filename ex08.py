@@ -3,7 +3,7 @@
 # O usuario digita um número, e aparece a tabuada daquele número.
 
 for i in range(10): 
-    valor = int(input("Digite um número: "))
+    valor = int(input("Digite um número da tabuada desejada: "))
     x1 = valor * 1
     x2 = valor * 2
     x3 = valor * 3
@@ -26,4 +26,12 @@ for i in range(10):
     print(f"{valor} x 8 = {x8}")
     print(f"{valor} x 9 = {x9}")
     print(f"{valor} x 10 = {x10}")
+    
+# Um modo mais simples:
 
+'''
+valor = int(input("Digite um número da tabuada desejada"))
+print(f"{valor} x 1 = {valor*1}")
+print(f"{valor} x 2 = {valor*2}")
+print(f"{valor} x 3 = {valor*3}")
+'''
