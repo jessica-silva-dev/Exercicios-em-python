@@ -1,7 +1,7 @@
 # Faça um algoritimo que leia o valor do produto, se for pago a vista ganha desconto.
 # Se for parcelado tem um acrescimo.
 
-produto = float(input("Informe o valor da compra: R$ "))
+produto = float(input("Informe o valor da compra do produto: R$ "))
 vista = input("O pagamento é a vista? ")
 print('')
 if vista.lower() == "sim" or vista.lower() == "s":
